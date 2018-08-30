@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    dogeify_bsim (0.1.0)
+    dogeify_bsim (1.0.0)
       engtagger
 
 GEM
